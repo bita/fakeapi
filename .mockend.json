@@ -1,6 +1,6 @@
 {
   "user": {
     "name": { "string": {} },
-    {  "number": { "int": { "min": 0, "max": 1000000 } }
+    "number": { "int": { "min": 0, "max": 1000000 }
   }
 } 
